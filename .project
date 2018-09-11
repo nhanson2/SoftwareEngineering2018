@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/edu/nd/se2018/homework/hwk3/HorseRacesUML.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Nathaniel/Pictures/HorseRacesUML.jpg</location>
+		</link>
+	</linkedResources>
 </projectDescription>
