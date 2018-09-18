@@ -20,5 +20,20 @@
 			<type>1</type>
 			<location>C:/Users/Nathaniel/Pictures/HorseRacesUML.jpg</location>
 		</link>
+		<link>
+			<name>src/edu/nd/se2018/homework/hwk4/ColumbusGame.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Nathaniel/Downloads/ColumbusGame.jpg</location>
+		</link>
+		<link>
+			<name>src/edu/nd/se2018/homework/hwk4/ColumbusShip.png</name>
+			<type>1</type>
+			<location>C:/Users/Nathaniel/Pictures/ColumbusShip.png</location>
+		</link>
+		<link>
+			<name>src/edu/nd/se2018/homework/hwk4/pirateship.gif</name>
+			<type>1</type>
+			<location>C:/Users/Nathaniel/Pictures/pirateship.gif</location>
+		</link>
 	</linkedResources>
 </projectDescription>
