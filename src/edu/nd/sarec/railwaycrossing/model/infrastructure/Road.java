@@ -14,6 +14,7 @@ import edu.nd.sarec.railwaycrossing.model.vehicles.CarFactory;
 /**
  * Represents a single road
  * @author jane
+ * Nathaniel Hanson
  *
  */
 public class Road extends Observable implements Observer{
@@ -95,7 +96,7 @@ public class Road extends Observable implements Observer{
 	}
 	@Override
 	public void update(Observable o, Object arg1) {
-		// A car has been added to our road, so we must update
+		// This crossing gate has been opened or closed so we must update the car factory
 		if (o instanceof CrossingGate){
 			if(!((CrossingGate)o).canTurn()) {
 				carFactory.setTurn(true);

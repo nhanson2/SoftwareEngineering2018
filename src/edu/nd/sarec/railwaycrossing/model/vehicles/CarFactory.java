@@ -12,7 +12,7 @@ import edu.nd.sarec.railwaycrossing.model.infrastructure.gate.CrossingGate;
 /**
  * Very basic car factory.  Creates the car and registers it with the crossing gate and the car infront of it.
  * @author jane
- *
+ * Nathaniel Hanson
  */
 public class CarFactory {
 	

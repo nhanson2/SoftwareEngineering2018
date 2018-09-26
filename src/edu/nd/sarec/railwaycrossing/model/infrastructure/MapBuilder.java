@@ -9,6 +9,7 @@ import edu.nd.sarec.railwaycrossing.model.infrastructure.gate.CrossingGate;
 /**
  * Creates all infrastructure for the simulation
  * @author jane
+ * Nathaniel Hanson
  *
  */
 public class MapBuilder {

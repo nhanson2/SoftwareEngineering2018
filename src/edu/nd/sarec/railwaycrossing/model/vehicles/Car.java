@@ -12,7 +12,7 @@ import javafx.scene.image.ImageView;
 /**
  * Represents Car object
  * @author jane
- *
+ * Nathaniel Hanson
  */
 public class Car extends Observable implements IVehicle, Observer{
 	private ImageView ivCar;
