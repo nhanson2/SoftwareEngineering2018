@@ -5,6 +5,12 @@ import java.awt.Point;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 
+/**
+ * @author Nathaniel Hanson
+ * Date: 10/18/2018
+ * LevelOne.java
+ * Chips object for chip challenge game
+ */
 public class ChipToken {
 	boolean displayed = true;
 	Point coordinates;

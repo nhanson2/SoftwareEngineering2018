@@ -5,7 +5,12 @@ import java.util.Observable;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 
-
+/**
+ * @author Nathaniel Hanson
+ * Date: 10/18/2018
+ * ChipsMan.java
+ * Framework for Chip Character
+ */
 public class ChipMan extends Observable implements MovingObject{
 	Point coordinates;
 	int dimensions;

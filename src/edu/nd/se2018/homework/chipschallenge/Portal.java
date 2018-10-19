@@ -7,6 +7,12 @@ import java.util.Observer;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 
+/**
+ * @author Nathaniel Hanson
+ * Date: 10/18/2018
+ * Portal.java
+ * End of game portals in game
+ */
 public class Portal implements Observer{
 	boolean displayed = true;
 	boolean walkable = false;

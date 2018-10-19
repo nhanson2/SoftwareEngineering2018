@@ -5,6 +5,12 @@ import java.awt.Point;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 
+/**
+ * @author Nathaniel Hanson
+ * Date: 10/18/2018
+ * JumpPad.java
+ * Teleportation Pads in Chip's Challenge
+ */
 public class JumpPad{
 	boolean displayed = true;
 	Point coordinates;

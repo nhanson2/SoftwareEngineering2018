@@ -15,9 +15,9 @@ import javafx.scene.layout.AnchorPane;
 
 	/**
 	 * @author Nathaniel Hanson
-	 * Date: 9/17/2018
-	 * OceanExplorer.java
-	 * Framework for JavaFX Application (Ocean Explorer)
+	 * Date: 10/18/2018
+	 * ChipsChallenge.java
+	 * Framework for JavaFX Application (ChipsChallenge)
 	 */
 
 // Ocean Explorer Game

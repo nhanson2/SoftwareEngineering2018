@@ -6,6 +6,12 @@ import java.util.Observable;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 
+/**
+ * @author Nathaniel Hanson
+ * Date: 10/18/2018
+ * Gate.java
+ * Token-based gates
+ */
 public class Gate extends Observable{
 	boolean displayed = true;
 	Point coordinates;

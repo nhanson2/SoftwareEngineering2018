@@ -13,6 +13,12 @@ import javafx.collections.ObservableList;
 import javafx.scene.Node;
 import javafx.scene.image.ImageView;
 
+/**
+ * @author Nathaniel Hanson
+ * Date: 10/18/2018
+ * LevelTwo.java
+ * Level Two Object
+ */
 public class LevelTwo extends Level{
 	int limits = 25;
 	int[][] levelGrid = new int[limits][limits];
