@@ -1,4 +1,4 @@
-package edu.nd.se2018.homework.hmwk6;
+package edu.nd.se2018.homework.chipschallenge;
 
 import java.awt.Point;
 

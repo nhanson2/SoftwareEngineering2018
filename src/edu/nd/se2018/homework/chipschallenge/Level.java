@@ -1,12 +1,9 @@
-package edu.nd.se2018.homework.hmwk6;
+package edu.nd.se2018.homework.chipschallenge;
 
 import java.awt.Point;
-import java.util.HashSet;
-import java.util.concurrent.ThreadLocalRandom;
+
 import javafx.collections.ObservableList;
 import javafx.scene.Node;
-import javafx.scene.paint.Color;
-import javafx.scene.shape.Rectangle;
 
 /**
  * @author Nathaniel Hanson
@@ -27,4 +24,6 @@ public abstract class Level {
 	int[][] levelGrid;
 	// Add map to the stage
 	public void drawLevel(ObservableList<Node> root) {}
+	public boolean getStatus() {return false;}
+	public int updateLevel(Point coordinates, ObservableList<Node> observableList) { return 0;}
 }

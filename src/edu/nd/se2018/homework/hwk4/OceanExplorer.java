@@ -49,7 +49,7 @@ public class OceanExplorer extends Application{
 		map.makePirates(ship.getLoc());
 		map.drawMap(root.getChildren(), scale, ship.getLoc());
 		shipImage = new Image("file:///C:/Users/Nathaniel/Pictures/ColumbusShip.png",scale,scale,true,true);
-		pirateImage = new Image("file:///C:/Users/Nathaniel/Pictures/pirateship.gif",scale,scale,true,true);
+		pirateImage = new Image("file:///C:/Users/Nathaniel/git/SoftwareEngineering2018/src/chip/textures/BlankTile.png",50,50,true,true);
 		pirates = map.myPirates;
 		// Add pirate ships to map and create observer objects
 		for(int i=0;i<2;i++) {
